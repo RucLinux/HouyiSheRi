@@ -9,7 +9,7 @@
 | 技术栈 | C++17 · Qt 6 · CMake |
 | 界面 | 全中文 · 日晕金 × 夜空墨 |
 
-
+![后羿射日界面](https://github.com/RucLinux/HouyiSheRi/blob/main/_20261119144956_506_176.png)
 
 ---
 
@@ -42,6 +42,8 @@
 | 系统设置 | 目标白名单（本地持久化，重启仍保留） |
 
 ---
+
+![后羿射日界面](https://github.com/RucLinux/HouyiSheRi/blob/main/_20261119144947_505_176.png)
 
 ## 三、安全机制（请先读）
 
@@ -77,6 +79,8 @@
 
 ---
 
+![后羿射日界面](https://github.com/RucLinux/HouyiSheRi/blob/main/_20261119151214_508_176.png)
+
 ## 五、各模块使用要点
 
 ### TCP / UDP / HTTP / 自定义协议
@@ -111,6 +115,8 @@
 - **SYN**：对指定端口做半开探测；次数与超时可自选，并显示端口释义
 
 ---
+
+![后羿射日界面](https://github.com/RucLinux/HouyiSheRi/blob/main/_20261119151803_509_176.png)
 
 ## 六、测试报告怎么用
 
